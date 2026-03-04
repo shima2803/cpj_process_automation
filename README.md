@@ -113,11 +113,11 @@ CPJ_PASSWORD
 
 ### Exemplo
 
-
+```
 CPJ_EXECUTABLE_PATH=C:\path\to\cpj3cclient.exe
 CPJ_USERNAME=seu_usuario
 CPJ_PASSWORD=sua_senha
-
+```
 ---
 
 # Formato da planilha Excel
